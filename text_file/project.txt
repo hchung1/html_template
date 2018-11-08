@@ -1,0 +1,27 @@
+htmls.png
+==
+New HTML
+==
+August 30, 2020
+==
+Henry Chunger, Luigi Garcia, Star Fox
+==
+CSS, HTML, Javascript
+==
+Create a new html script using css, html, and javascript
+==
+Henry-Html Creation, Luigi-CSS Creatuion, Star-JavaScript Editor
+==
+swarm.jpg
+==
+Swarmathon
+==
+Started: September 3,2018, Competition Start:December 4,2019
+==
+Kira Kiri, Browser Wowser, Luigi Garcia
+==
+C/C++, Arduino, Something
+==
+Swarnation is somming up and is a swarming interest
+==
+Kira-Dection Coder, Browser-Movement Coder, Luigi-Main Coder

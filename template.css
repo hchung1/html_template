@@ -1,0 +1,36 @@
+.sidemenu {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidemenu a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidemenu a:hover {
+  background-color: #ffffff;
+  color: #111;
+}
+.main_content {
+  margin-left: 170px;
+  padding: 0px 10px;
+}
+.bodies{
+  background-color: #FFA500;
+  color: #0000FF;
+}
+.titles{
+  background-color: #0000FF;
+  color: #FFA500;
+}

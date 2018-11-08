@@ -1,0 +1,7 @@
+This is a template for about cs club and what we do.
+==
+Hi
+==
+==
+bye
+==

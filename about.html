@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Test Page</title>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+  <link rel="stylesheet" href="template.css">
+</head>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+<script> 
+  $(function(){
+    $("#includeside").load("base.html"); 
+  });
+  $(function(){
+    $("#includeimage").load("about_image.html"); 
+  });
+</script>
+<body>
+  <div id="includeside" class="sidemenu" ></div>
+  <div class="main_content titles" align="center">
+    <h1>THE COMPUTER SCIENCE CLUB</h1>
+  </div>
+  <div class="main_content bodies" align="center">
+    <h3>About Page</h3><br>
+    <div id="includeimage"class="sliders" style="max-width:500px"></div><br>
+  </div>
+</body>
+</html>
