@@ -76,9 +76,9 @@ def check_path(path,width,height,i):
   #edit_image(path,lists,width,height)
   if (i==0):
     listing[i](path, lists)
-#check_path("/home_image",1000,1000,0)
-#check_path("/about_image",1000,1000,0)
-#check_path("/member_image",250,250,1)
+check_path("/home_image",1000,1000,0)
+check_path("/about_image",1000,1000,0)
+check_path("/member_image",250,250,1)
 check_path("/trip_image",1000,1000,0)
-#write_members()
+write_members()
 project_writer()
